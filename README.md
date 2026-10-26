@@ -19,6 +19,8 @@ https://raw.githubusercontent.com/ihsur7/atelierpatel-brand/main/<path>
 | Square logo or profile picture | `png/avatar-glyph-glow-240.png` (also 96, 512, 1024) |
 | Square logo, plain | `png/glyph-square-ink-512.png` or `png/glyph-square-paper-512.png` |
 | BIMI-style square SVG (SVG Tiny PS) | `svg/glyph-square-bimi.svg` |
+| Microsoft Entra sign-in square logo / favicon (32 × 32, under 5 KB) | `png/favicon-32.png` |
+| Microsoft Entra sign-in background (1920 × 1080, under 300 KB) | `png/signin-background-light.png` or `png/signin-background-dark.png` |
 | Vector logos | `svg/` |
 
 ## Contents
@@ -26,7 +28,8 @@ https://raw.githubusercontent.com/ihsur7/atelierpatel-brand/main/<path>
 - `svg/` — the glyph, the horizontal and stacked lockups and the wordmark, in ink (`#0b0b0b`, for
   light backgrounds) and paper (`#f4f3f0`, for dark ones); `svg/shapes/` holds the seven brand shapes.
 - `png/` — the same marks as PNGs: transparent glyphs and lockups, solid square glyphs, and the
-  avatar (the glyph on the brand glow).
+  avatar (the glyph on the brand glow), the favicon, and the sign-in backgrounds (the CRM login's
+  halftone, light and dark).
 - `social/` — the link-preview image.
 
 ## Colours
